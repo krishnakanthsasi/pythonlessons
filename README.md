@@ -1,3 +1,2 @@
-# pythonrefresher
-Created for the purpose of the self study for the authors. 
-The learning materials are uploaded in terms of python notebooks, and any revelant video and other documents.
+# pythonTutorials
+These were created for the purpose of tutoring students online in foundational python, and data analysis using pandas during corona pandemic (September-December), 2020.
